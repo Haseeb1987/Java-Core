@@ -1,0 +1,11 @@
+
+class TestEnum {
+	enum TestingEnum {THIN, BIG, FAT}
+	TestingEnum size;
+}
+
+public class Test {
+	public static void main (String[]a){
+		System.out.println("Run now ...");
+	}
+}

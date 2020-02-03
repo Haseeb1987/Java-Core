@@ -1,0 +1,38 @@
+import utility.Helper;
+
+
+public class Test {
+	
+	byte a = 0;
+	short b = 0;
+	int c = 0;
+	long d = 0l;
+	float f = 0.0f;
+	double g = 0.0d;
+	boolean h = false;
+	char i = 'A';
+	
+	
+	enum TestingEnum {Test1,Test2, Test3, METHOD{
+											@Override public String enumMethod() 
+												{
+													return "OverRided";
+												};
+												};
+
+												public String enumMethod() {
+													return "Local";
+												}
+	}
+	
+	
+	public static void main (String[]a){
+		System.out.println("Run now ...");
+		System.out.println("Enum : " + TestingEnum.Test1);
+		System.out.println("Enum : " + Test.TestingEnum.Test2);
+		System.out.println("Enum : " + TestingEnum.METHOD);
+		System.out.println("Enum : " + TestingEnum.METHOD.enumMethod());
+		
+		Helper help = new Helper();
+	}
+}

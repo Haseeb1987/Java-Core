@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Software\IBM_JDK_7_64b\jre" version="1.6.0">
+<bootpath>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\bin\default\jclSC160\vm.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\annotation.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\beans.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\java.util.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\jndi.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\logging.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\security.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\sql.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmorb.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmorbapi.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmcfw.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\rt.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\charsets.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\resources.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmpkcs.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmcertpathfw.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmjgssfw.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmjssefw.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmsaslfw.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmjcefw.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmjgssprovider.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ibmxmlcrypto.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\management-agent.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\xml.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\jlm.jar"/>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\javascript.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\Software\IBM_JDK_7_64b\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jre1.8.0_60" version="1.8.0_60">
+<bootpath>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\jfr.jar"/>
+<entry path="C:\Program Files\Java\jre1.8.0_60\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jre1.8.0_60\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

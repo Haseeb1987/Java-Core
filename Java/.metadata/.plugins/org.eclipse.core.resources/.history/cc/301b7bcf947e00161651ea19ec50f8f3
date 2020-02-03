@@ -1,0 +1,12 @@
+
+public class Test {
+	
+	enum TestingEnum {Test1,Test2, Test3, METHOD{ public void enumMethod() {System.out.println("EnumMethod");}}}
+	
+	public static void main (String[]a){
+		System.out.println("Run now ...");
+		System.out.println("Enum : " + TestingEnum.Test1);
+		System.out.println("Enum : " + Test.TestingEnum.Test2);
+		System.out.println("Enum : " + TestingEnum.);
+	}
+}

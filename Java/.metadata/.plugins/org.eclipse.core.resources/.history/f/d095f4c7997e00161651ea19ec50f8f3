@@ -1,0 +1,11 @@
+package utility;
+
+public class Helper {
+	public Helper (){
+		System.out.println("This is a Helper Class");
+	}
+	
+	public void HelpingStuff (){
+		System.out.println("This is a Helper Class");
+	}
+}
